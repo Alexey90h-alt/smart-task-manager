@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Посмотреть урок на Skillbox",
+        "priority": 3,
+        "deadline": "2026-04-01",
+        "is_completed": false
+    },
+    {
+        "title": "Написать README",
+        "priority": 2,
+        "deadline": "2026-03-31",
+        "is_completed": false
+    },
+    {
+        "title": "Сделать кофе",
+        "priority": 1,
+        "deadline": "2026-03-30",
+        "is_completed": false
+    }
+]
